@@ -1,0 +1,19 @@
+{
+  "background_color": "#FFFFFF",
+  "categories": ["podcast","social"],
+  "description": "The website for Aimless Analysis, a podcast about just about everything",
+  "dir": "ltr",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "https://qrmf.github.io/books/static/images/favicon.ico",
+      "sizes": "72x72 96x96 128x128 256x256"
+    }
+  ],
+  "lang": "en-GB",
+  "name": "Aimless Analysis",
+  "scope": "https://aimless-analysis.github.io",
+  "short_name": "AA",
+  "start_url": "https://aimless-analysis.github.io",
+  "theme_color": "#6200ee"
+}
